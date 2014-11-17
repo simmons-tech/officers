@@ -20,7 +20,7 @@ var offices = {
 "secretary" : {
 	title : "Secretary",
 	full_title : "Secretary",
-	description : "<p><h1>The Secretary documents all business of the House</h1></p><p>The Secretary is responsible for: <ol type='a'><li>documenting all business of the House; </li><li>keeping a public record of all decisions made by the House; </li><li>maintaining an archive to ensure that such documentation is available to all present and future House members; </li><li>running full forum votes by publicly posting a description of the measure(s) being voted on, then issuing a ballot on said measures to be concluded before the next house meeting; </li><li>serving in lieu of the Chair of the House if the Chair is temporarily unable to serve.</li></ol></p>",
+	description : "<p><h1>The Secretary documents all business of the House</h1></p><p>The Secretary is responsible for: <ol type='a'><li>documenting all business of the House; </li><li>keeping a public record of all decisions made by the House; </li><li>maintaining an archive to ensure that such documentation is available to all present and future House members; </li><li>maintaining a public record of the events and discussions that happen in the House and presenting those records at every house meeting;</li><li>running full forum votes by publicly posting a description of the measure(s) being voted on, then issuing a ballot on said measures to be concluded before the next house meeting; </li><li>serving in lieu of the Chair of the House if the Chair is temporarily unable to serve.</li></ol></p>",
 },
 
 "rooming_chair_1" : {
@@ -67,7 +67,7 @@ var offices = {
 	"publicity_chair" : {
 		title : "Publicity",
 		full_title : "Publicity Chair",
-		description : "<p><h1>The Publicity Chair is tasked with the promotion and publicity of the dorm and its events through the use of media content including, but not limited to, posters, flyers, web campaigns, 7K display, and the I3 video.</h1></p><p>The Publicity Chair is responsible for <ol type='a'><li>promoting the dorm; </li><li>assisting the House Team and House Officers in publicizing dorm events; </li><li>reporting to the President; </li><li>reporting regularly to the House.</li></ol></p>",
+		description : "<p><h1>The Publicity Chair is tasked with the promotion and publicity of the dorm and its events through the use of media content including, but not limited to, posters, flyers, web campaigns, 7K display, and the I3 video.</h1></p><p>The Publicity Chair is responsible for <ol type='a'><li>promoting the dorm; </li><li>assisting the House Team and House Officers in publicizing dorm events; </li><li>writing and releasing an alumni newsletter as a high-level overview of occurrences at Simmons;</li><li>reporting to the President; </li><li>reporting regularly to the House.</li></ol></p>",
 	},
 	"facilities_chair" : {
 		title : "Facilities",
