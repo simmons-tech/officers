@@ -20,7 +20,7 @@ var people = {
   },
   "jujzwang" : {
     name: "Juju",
-    full_name: "Juju Wang",
+    full_name: "(Zhishen) Juju Wang",
     year: "2017",
     room: "732",
     email: "jujzwang@mit.edu",
@@ -86,7 +86,7 @@ var people = {
     email: "aliciacm@mit.edu",
     photo: "aliciacm.jpg",
   },
-    "ambhave" : {
+  "ambhave" : {
     name: "Amol",
     full_name: "Amol Bhave",
     year: "2017",
@@ -102,7 +102,7 @@ var people = {
     email: "amohr@mit.edu",
     photo: "amohr.jpg",
   },
-    "aoriole" : {
+  "aoriole" : {
     name: "Alexis",
     full_name: "Alexis Oriole",
     year: "2018",
@@ -110,7 +110,7 @@ var people = {
     email: "aoriole@mit.edu",
     photo: "aoriole.jpg",
   },
-    "chauhans" : {
+  "chauhans" : {
     name: "Shivani",
     full_name: "Shivani Chauhan",
     year: "2018",
@@ -118,7 +118,7 @@ var people = {
     email: "chauhans@mit.edu",
     photo: "chauhans-snvd.jpg",
   },
-    "snvd" : {
+  "snvd" : {
     name: "Sarah",
     full_name: "Sarah Van Dierdonck",
     year: "2018",
@@ -126,7 +126,7 @@ var people = {
     email: "snvd@mit.edu",
     photo: "snvd.jpg",
   },
-    "cstubbe" : {
+  "cstubbe" : {
     name: "Camille",
     full_name: "Camille Stubbe",
     year: "2018",
@@ -134,7 +134,7 @@ var people = {
     email: "cstubbe@mit.edu",
     photo: "cstubbe.jpg",
   },
-    "edenmark" : {
+  "edenmark" : {
     name: "Evan",
     full_name: "Evan Denmark",
     year: "2017",
@@ -142,7 +142,15 @@ var people = {
     email: "edenmark@mit.edu",
     photo: "edenmark-irena_m.jpg",
   },
-    "kkim17" : {
+  "irena_m" : {
+    name: "Irena",
+    full_name: "Irena Martinez",
+    year: "2018",
+    room: "1052A",
+    email: "irena_m@mit.edu",
+    photo: "edenmark-irena_m.jpg",
+  },
+  "kkim17" : {
     name: "Kristina",
     full_name: "Kristina Kim",
     year: "2017",
@@ -150,7 +158,7 @@ var people = {
     email: "kkim17@mit.edu",
     photo: "kkim17.jpg",
   },
-    "loctrinh" : {
+  "loctrinh" : {
     name: "Loc",
     full_name: "Loc Trinh",
     year: "2018",
@@ -158,7 +166,7 @@ var people = {
     email: "loctrinh@mit.edu",
     photo: "loctrinh-evancb.jpg",
   },
-    "evancb" : {
+  "evancb" : {
     name: "Evan",
     full_name: "Evan Brown",
     year: "2018",
@@ -166,7 +174,7 @@ var people = {
     email: "evancb@mit.edu",
     photo: "loctrinh-evancb.jpg",
   },
-    "mecunha" : {
+  "mecunha" : {
     name: "Elaine",
     full_name: "(Mary) Elaine Cunha",
     year: "2017",
@@ -174,7 +182,7 @@ var people = {
     email: "mecunha@mit.edu",
     photo: "mecunha.jpg",
   },
-    "rgulland" : {
+  "rgulland" : {
     name: "Ryan",
     full_name: "Ryan Gulland",
     year: "2018",
@@ -182,7 +190,7 @@ var people = {
     email: "rgulland@mit.edu",
     photo: "rgulland.jpg",
   },
-    "yji" : {
+  "yji" : {
     name: "Yuge",
     full_name: "Yuge Ji",
     year: "2018",
