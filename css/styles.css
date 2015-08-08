@@ -136,7 +136,8 @@ a {
 .workshop_chair .color,
 .library_chair .color,
 .entertainment_chair .color,
-.reservations_chair .color { background-color: #CCB2E5; } /* purple */
+.reservations_chair .color,
+.kitchen_chair .color { background-color: #CCB2E5; } /* purple */
 
 .housemaster .color,
 .associate_housemaster .color,

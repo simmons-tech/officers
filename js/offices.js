@@ -1,29 +1,27 @@
 // Contains details for offices.
 
 var offices = {
-"president" : {
-	title : "President",
-	full_title : "President",
-	description : "<p><h1>The President is the chief diplomat of Simmons Hall and the administrator of the House's external affairs.</h1></p> <p>The President is responsible for: <ol type='a'><li>being the primary representative of the House to any outside groups, including, but not limited to, the Simmons' caterer, other dormitories and living groups, student governments, other student groups, MIT administration, MIT faculty, and groups outside MIT; </li><li>presenting the official opinion of the House, as determined by the House, to the aforementioned groups; </li><li>advocating and negotiating on behalf of Simmons Hall to the aforementioned groups; </li><li>presenting items for discussion and decision by the House on behalf of the aforementioned outside groups; </li><li>representing Simmons Hall to the Dormitory Council and casting votes on behalf of Simmons Hall; </li><li>communicating regularly with the Housemasters; </li><li>reporting regularly to the House; </li><li>inviting outside guests to address the House; </li><li>directly overseeing the Recruitment Chairs, Athletics Chair, and Publicity Chair.</li></ol></p>",
-},
-"treasurer" : {
-	title : "Treasurer",
-	full_title : "Treasurer",
-	description : "<p><h1>The Treasurer manages the finances of the House and implements the financial decisions made by the House.</h1></p> <p>The Treasurer is responsible for: <ol type='a'><li>receiving signatory privileges for all House bank accounts, including the student activity account maintained by MIT; </li><li>keeping record of all financial decisions made by the House; </li><li>reimbursing individuals for House-related expenses approved by the House; </li><li>reporting at every meeting of the House, presenting the balances of all House bank accounts and an itemized report of all account activity, and making its reports available for viewing by all House Members; </li><li>Treasurer's report should include: current balances, anticipated budgets, and effects of current proposals on the budget.</li></ol></p>",
-},
-
-"house_chair" : {
-	title : "House Chair",
-	full_title : "House Chair",
-	description : "<p><h1>The Chair of the House is the chief administrator of the House's internal affairs.</h1></p> <p>The Chair is responsible for: <ol type='a'><li>creating and distributing to all members a schedule of House meetings for each academic semester, prior to the start of that semester; </li><li>explaining to the House how House meetings work at the start of each semester; </li><li>adding proposals to the agenda of the upcoming House meeting; </li><li>creating and distributing the agenda for each House meeting at least one day prior to the start of that meeting; </li><li>facilitating and maintaining order at all meetings of the House, following an established set of procedures and conducting meetings in a fair way that allows all members an opportunity to speak; </li><li>conducting elections; </li><li>generally overseeing the business of the House and directly overseeing the Social Chair, Facilities Chair, Technology Chair and the Rooming Chairs.</li></ol></p>",
-},
-"secretary" : {
-	title : "Secretary",
-	full_title : "Secretary",
-	description : "<p><h1>The Secretary documents all business of the House</h1></p><p>The Secretary is responsible for: <ol type='a'><li>documenting all business of the House; </li><li>keeping a public record of all decisions made by the House; </li><li>maintaining an archive to ensure that such documentation is available to all present and future House members; </li><li>maintaining a public record of the events and discussions that happen in the House and presenting those records at every house meeting;</li><li>running full forum votes by publicly posting a description of the measure(s) being voted on, then issuing a ballot on said measures to be concluded before the next house meeting; </li><li>serving in lieu of the Chair of the House if the Chair is temporarily unable to serve.</li></ol></p>",
-},
-
-"rooming_chair_1" : {
+	"president" : {
+		title : "President",
+		full_title : "President",
+		description : "<p><h1>The President is the chief diplomat of Simmons Hall and the administrator of the House's external affairs.</h1></p> <p>The President is responsible for: <ol type='a'><li>being the primary representative of the House to any outside groups, including, but not limited to, the Simmons' caterer, other dormitories and living groups, student governments, other student groups, MIT administration, MIT faculty, and groups outside MIT; </li><li>presenting the official opinion of the House, as determined by the House, to the aforementioned groups; </li><li>advocating and negotiating on behalf of Simmons Hall to the aforementioned groups; </li><li>presenting items for discussion and decision by the House on behalf of the aforementioned outside groups; </li><li>representing Simmons Hall to the Dormitory Council and casting votes on behalf of Simmons Hall; </li><li>communicating regularly with the Housemasters; </li><li>reporting regularly to the House; </li><li>inviting outside guests to address the House; </li><li>directly overseeing the Recruitment Chairs, Athletics Chair, and Publicity Chair.</li></ol></p>",
+	},
+	"treasurer" : {
+		title : "Treasurer",
+		full_title : "Treasurer",
+		description : "<p><h1>The Treasurer manages the finances of the House and implements the financial decisions made by the House.</h1></p> <p>The Treasurer is responsible for: <ol type='a'><li>receiving signatory privileges for all House bank accounts, including the student activity account maintained by MIT; </li><li>keeping record of all financial decisions made by the House; </li><li>reimbursing individuals for House-related expenses approved by the House; </li><li>reporting at every meeting of the House, presenting the balances of all House bank accounts and an itemized report of all account activity, and making its reports available for viewing by all House Members; </li><li>Treasurer's report should include: current balances, anticipated budgets, and effects of current proposals on the budget.</li></ol></p>",
+	},
+	"house_chair" : {
+		title : "House Chair",
+		full_title : "House Chair",
+		description : "<p><h1>The Chair of the House is the chief administrator of the House's internal affairs.</h1></p> <p>The Chair is responsible for: <ol type='a'><li>creating and distributing to all members a schedule of House meetings for each academic semester, prior to the start of that semester; </li><li>explaining to the House how House meetings work at the start of each semester; </li><li>adding proposals to the agenda of the upcoming House meeting; </li><li>creating and distributing the agenda for each House meeting at least one day prior to the start of that meeting; </li><li>facilitating and maintaining order at all meetings of the House, following an established set of procedures and conducting meetings in a fair way that allows all members an opportunity to speak; </li><li>conducting elections; </li><li>generally overseeing the business of the House and directly overseeing the Social Chair, Facilities Chair, Technology Chair and the Rooming Chairs.</li></ol></p>",
+	},
+	"secretary" : {
+		title : "Secretary",
+		full_title : "Secretary",
+		description : "<p><h1>The Secretary documents all business of the House</h1></p><p>The Secretary is responsible for: <ol type='a'><li>documenting all business of the House; </li><li>keeping a public record of all decisions made by the House; </li><li>maintaining an archive to ensure that such documentation is available to all present and future House members; </li><li>maintaining a public record of the events and discussions that happen in the House and presenting those records at every house meeting;</li><li>running full forum votes by publicly posting a description of the measure(s) being voted on, then issuing a ballot on said measures to be concluded before the next house meeting; </li><li>serving in lieu of the Chair of the House if the Chair is temporarily unable to serve.</li></ol></p>",
+	},
+	"rooming_chair_1" : {
 		title : "Rooming",
 		full_title : "Rooming Chair",
 		description : "<p><h1>The Rooming Chairs manage room assignments for new and continuing residents according to the Rooming Policies.</h1></p> <p>There are always two Rooming Chairs. At each election, the House elects an individual to serve as Rooming Chair for a two year term.</p> <p>The Rooming Chairs are responsible for: <ol type='a'><li>managing and executing the Rooming Policies; </li><li>maintaining a record of all Simmons Hall residents and their assigned rooms; </li><li>communicating regularly with the Housemasters, House Manager and Desk Captain; </li><li>communicating with the MIT Housing Office and DormCon Housing Committee on housing-related issues, with the assistance of the President; </li><li>providing assistance to the Desk Captain upon request whenever residents are moving into or out of the building; </li><li>reporting regularly to the House Chair and the House.</li></ol></p> ",
@@ -48,7 +46,6 @@ var offices = {
 		full_title : "Technology Chair",
 		description : "<p><h1>The Technology Chair leads the Technology Committee that maintains the computing resources managed by the House.</h1></p><p>The Technology Chair is responsible for <ol type='a'><li>organizing, scheduling and running meetings of the Technology Committee; </li><li>ensuring that the Technology Committee accomplishes its goals; </li><li>reporting to the House Chair; </li><li>reporting regularly to the House.</li></ol></p><p>The Technology Committee is responsible for: <ol type='a'><li>debugging and updating the Simmons Database System, House mailing lists, and House web server; </li><li>proposing, implementing, and maintaining technological solutions to meet and improve other House computing needs.</li></ol></p>",
 	},
-
 	"athletics_chair" : {
 		title : "Athletics",
 		full_title : "Athletics Chair",
@@ -74,8 +71,7 @@ var offices = {
 		full_title : "Facilities Chair",
 		description : "<p><h1>The Facilities Chair leads the Facilities Committee comprised of the Electrical Engineering Lab Chair, the Library Chair, the Entertainment Chair, the Reservations Chair, and the Workshop Chair.</h1></p><p>The Facilities Chair is responsible for <ol type='a'><li>organizing, scheduling and running meetings of the Facilities Committee; </li><li>ensuring that the Electrical Engineering Lab Chair, the Library Chair, the Entertainment Chair, the Reservations Chair, and the Workshop Chair fulfill their jobs to their fullest extent; </li><li>working with the House Manager to accomplish tasks; </li><li>reporting to the House Chair; </li><li>reporting regularly to the House.</li></ol></p><p>The Facilities Committee is responsible for creating, recommending, and overseeing the implementation of policies regarding the use of House-owned equipment and spaces.</p>",
 	},
-
-"ee_lab_chair" : {
+	"ee_lab_chair" : {
 		title : "EE Lab",
 		full_title : "EE Lab Chair",
 		description : "<p><h1>The Electrical Engineering Lab Chair is part of the Facilities Committee and maintains the lab facility on the seventh floor.</h1></p><p>The Electrical Engineering Lab Chair is responsible for <ol type='a'><li>organizing training sessions for residents who want to use the lab </li><li>ensuring that residents are properly trained and certified to use the lab </li><li>reporting to the Facilities Chair; </li><li>reporting regularly to the House.</li></ol></p>",
@@ -93,12 +89,17 @@ var offices = {
 	"entertainment_chair" : {
 		title : "Entertainment",
 		full_title : "Entertainment Chair",
-		description : "<p><h1>The Entertainment Chair is part of the Facilities Committee and maintains the Simmons Hall movie, video game, and board game collection.</h1></p><p>The Entertainment Chair is responsible for: <ol type='a'><li>maintaining an easily accessible, public list of movies, video games, and board games </li><li>soliciting opinions from the House regarding what new movies, video games, board games, or Pay-Per-View programming should be purchased; </li><li>requesting funding for the purchase of new movies, video games, board games and Pay-Per-View programming; </li><li>purchasing new movies, video games, and board games to be added to the Simmons Hall movie collection; </li><li>managing the Pay-Per-View account; </li><li>reporting to the Facilities Chair; </li><li>reporting regularly to the House.</li></ol></p>",
+		description : "<p><h1>The Entertainment Chair is part of the Facilities Committee and maintains the Simmons Hall movie, video game, and board game collection.</h1></p><p>The Entertainment Chair is responsible for: <ol type='a'><li>maintaining an easily accessible, public list of movies, video games, and board games; </li><li>soliciting opinions from the House regarding what new movies, video games, board games, or Pay-Per-View programming should be purchased; </li><li>requesting funding for the purchase of new movies, video games, board games and Pay-Per-View programming; </li><li>purchasing new movies, video games, and board games to be added to the Simmons Hall movie collection; </li><li>managing the Pay-Per-View account; </li><li>reporting to the Facilities Chair; </li><li>reporting regularly to the House.</li></ol></p>",
 	},
 	"reservations_chair" : {
 		title : "Reservations",
 		full_title : "Reservations Chair",
 		description : "<p><h1>The Reservations Chair is part of the Facilities Committee and oversees the reservation process of all Simmons public spaces according to the Policies of the Reservations Chair.</h1></p><p>The Reservations Chair is responsible for reporting regularly to the Facilities Chair and the House.</p>",
+	},
+	"kitchen_chair" : {
+		title : "Kitchen",
+		full_title : "Kitchen Chair",
+		description : "<p><h1>The Kitchen Chair is part of the Facilities Committee and maintains the kitchen facilities in Simmons.</hi></p><p>The Kitchen Chair is responsible for: <ol type='a'><li>maintaining a stock of permanent cookware available to Simmons residents;</li><li>maintaining a stock of basic ingredients available to Simmons residents;</li><li>ensuring that residents keep kitchens clean.</li></ol></p>",
 	},
 
 	// HOUSE TEAM

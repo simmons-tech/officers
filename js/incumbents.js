@@ -24,6 +24,7 @@ var incumbents = {
   "library_chair" : ["chauhans", "snvd"],
   "entertainment_chair" : ["magallon", "gschulte"],
   "reservations_chair" : ["aliciacm"],
+  "kitchen_chair" : ["vacant"],
 
   // HOUSE TEAM
   "housemaster" : ["jessig", "emessig"],
