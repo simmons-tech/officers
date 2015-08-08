@@ -125,7 +125,7 @@ var offices = {
 		description : "A House Manager is a full-time employee of the Housing office who is responsible for the operations and facilities of a residence. He or she supervises the front desk, cleaning, and maintenance staff.",
 	},
 	 "desk_captain" : {
-		title : "Desk",
+		title : "Desk Captain",
 		full_title : "Desk Captain",
 		description : "The Desk Captain oversees desk workers.",
 	},
