@@ -2,28 +2,28 @@
 
 var incumbents = {
   // OFFICERS
-  "president" : ["larsj"],
+  "president" : ["kmfarris"],
   "house_chair" : ["cheber"],
-  "treasurer" : ["kmfarris"],
-  "secretary": ["woursler"],
+  "treasurer" : ["rgulland"],
+  "secretary": ["amohr"],
 
-  "rooming_chair_1" : ["orlowski"],
-  "rooming_chair_2" : ["jujzwang"],
-  "history_chair" : ["vacant"],
+  "rooming_chair_1" : ["jujzwang"],
+  "rooming_chair_2" : ["mecunha"],
+  "history_chair" : ["aoriole"],
   "social_chair" : ["colbertc"],
-  "technology_chair" : ["adat"],
+  "technology_chair" : ["ambhave"],
 
-  "athletics_chair" : ["cfh119"],
-  "frosh_1" : ["apark93"],
-  "frosh_2" : ["nhynes"],
-  "publicity_chair" : ["cosmosd"],
+  "athletics_chair" : ["cstubbe"],
+  "frosh_1" : ["kkim17"],
+  "frosh_2" : ["yji"],
+  "publicity_chair" : ["edenmark", "irena_m"],
 
   "facilities_chair" : ["dafolabi"],
-  "ee_lab_chair" : ["erdozain"],
+  "ee_lab_chair" : ["loctrinh", "evancb"],
   "workshop_chair" : ["adelmore","akurtz"],
-  "library_chair" : ["cwetters"],
+  "library_chair" : ["chauhans", "snvd"],
   "entertainment_chair" : ["magallon", "gschulte"],
-  "reservations_chair" : ["kaugdahl"],
+  "reservations_chair" : ["aliciacm"],
 
   // HOUSE TEAM
   "housemaster" : ["jessig", "emessig"],
@@ -32,5 +32,5 @@ var incumbents = {
 
   // OTHER
   "house_manager" : ["nika_h"],
-  "desk_captain" : ["cfh119"],
+  "desk_captain" : ["vacant"],
 }
