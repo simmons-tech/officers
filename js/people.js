@@ -198,6 +198,14 @@ var people = {
     email: "yji@mit.edu",
     photo: "yji.jpg",
   },
+  "kianna" : {
+    name: "Kianna",
+    full_name: "Kianna Jackson",
+    year: "2016",
+    room: "577",
+    email: "kianna@mit.edu",
+    photo: "photo.jpg",
+  },
 
   // HOUSE TEAM
   "jessig" : {

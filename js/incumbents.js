@@ -33,5 +33,5 @@ var incumbents = {
 
   // OTHER
   "house_manager" : ["nika_h"],
-  "desk_captain" : ["vacant"],
+  "desk_captain" : ["kianna"],
 }
