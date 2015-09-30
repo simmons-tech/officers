@@ -99,7 +99,7 @@ var offices = {
 	"kitchen_chair" : {
 		title : "Kitchen",
 		full_title : "Kitchen Chair",
-		description : "<p><h1>The Kitchen Chair is part of the Facilities Committee and maintains the kitchen facilities in Simmons.</hi></p><p>The Kitchen Chair is responsible for: <ol type='a'><li>maintaining a stock of permanent cookware available to Simmons residents;</li><li>maintaining a stock of basic ingredients available to Simmons residents;</li><li>ensuring that residents keep kitchens clean.</li></ol></p>",
+		description : "<p><h1>The Kitchen Chair is part of the Facilities Committee and maintains the kitchen facilities in Simmons.</h1></p><p>The Kitchen Chair is responsible for: <ol type='a'><li>maintaining a stock of permanent cookware available to Simmons residents;</li><li>maintaining a stock of basic ingredients available to Simmons residents;</li><li>ensuring that residents keep kitchens clean.</li></ol></p>",
 	},
 
 	// HOUSE TEAM

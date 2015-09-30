@@ -1,6 +1,14 @@
 // Contains personal details for people by kerberos.
 
 var people = {
+  "marissas" : {
+    name: "Marissa",
+    full_name: "Marissa Stephens",
+    year: "2016",
+    room: "330",
+    email: "marissas@mit.edu",
+    photo: "photo.jpg",
+  },
   "cheber" : {
     name: "Caitlin",
     full_name: "Caitlin Heber",
