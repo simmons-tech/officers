@@ -7,7 +7,7 @@ var people = {
     year: "2016",
     room: "330",
     email: "marissas@mit.edu",
-    photo: "photo.jpg",
+    photo: "marissas.jpg",
   },
   "cheber" : {
     name: "Caitlin",
