@@ -18,7 +18,7 @@ var incumbents = {
   "frosh_2" : ["yji"],
   "publicity_chair" : ["edenmark", "irena_m"],
 
-  "facilities_chair" : ["dafolabi"],
+  "facilities_chair" : ["pliscio"],
   "ee_lab_chair" : ["loctrinh", "evancb"],
   "workshop_chair" : ["adelmore","akurtz"],
   "library_chair" : ["chauhans", "snvd"],

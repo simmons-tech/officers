@@ -42,14 +42,13 @@ var people = {
     email: "colbertc@mit.edu",
     photo: "colbertc.jpg",
   },
-  "dafolabi" : {
-    name: "David",
-    full_name: "David Afolabi",
-    year: "2016",
-    room: "1021A",
-    phone: "765-491-5528",
-    email: "dafolabi@mit.edu",
-    photo: "dafolabi.jpg",
+  "pliscio" : {
+    name: "Patrick",
+    full_name: "Patrick Liscio",
+    year: "2017",
+    room: "721",
+    email: "pliscio@mit.edu",
+    photo: "pliscio.jpg",
   },
   "adelmore" : {
     name: "Alex",
