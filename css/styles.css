@@ -281,7 +281,6 @@ h1 {
 }
 
 
-
 .box ::-webkit-scrollbar{
 	width:10px;
 }
@@ -296,4 +295,8 @@ h1 {
 .noscroll {
 	position: fixed;
 	overflow: hidden;
+}
+
+.name{
+	font-size: 13px !important;
 }

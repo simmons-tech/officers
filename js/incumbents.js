@@ -2,30 +2,30 @@
 
 var incumbents = {
   // OFFICERS
-  "president" : ["kmfarris"],
-  "house_chair" : ["cheber"],
-  "treasurer" : ["rgulland"],
+  "president" : ["yji"],
+  "house_chair" : ["jujzwang"],
+  "treasurer" : ["solveig3"],
   "secretary": ["amohr"],
 
-  "rooming_chair_1" : ["jujzwang"],
-  "rooming_chair_2" : ["mecunha"],
+  "rooming_chair_1" : ["mecunha"],
+  "rooming_chair_2" : ["lilydove"],
+  "social_chair" : ["cramjee"],
+  "frosh_1" : ["jacqliu"],
+  "frosh_2" : ["amowayed"],
+  "technology_chair" : ["ambhave", "loctrinh"],
+
+  "publicity_chair" : ["khn", "johnsili"],
   "history_chair" : ["aoriole"],
-  "social_chair" : ["colbertc"],
-  "technology_chair" : ["ambhave"],
-
-  "athletics_chair" : ["cstubbe"],
-  "frosh_1" : ["kkim17"],
-  "frosh_2" : ["yji"],
-  "publicity_chair" : ["edenmark", "irena_m"],
-
   "facilities_chair" : ["pliscio"],
-  "ee_lab_chair" : ["loctrinh", "evancb"],
-  "workshop_chair" : ["adelmore","akurtz"],
-  "library_chair" : ["chauhans", "snvd"],
-  "entertainment_chair" : ["magallon", "gschulte"],
-  "reservations_chair" : ["aliciacm"],
-  "kitchen_chair" : ["marissas"],
+  "athletics_chair" : ["cstubbe", "mfeffer"],
+  "ee_lab_chair" : ["sharc", "evancb"],
+  "library_chair" : ["merealoy", "walaa"],
+  "entertainment_chair" : ["marquezm", "sayala"],
+  "reservations_chair" : ["aqcao"],
+  "workshop_chair" : ["rgulland","jhbell"],
+  "kitchen_chair" : ["daynae"],
 
+  
   // HOUSE TEAM
   "housemaster" : ["jessig", "emessig"],
   "associate_housemaster" : ["srhall"],
