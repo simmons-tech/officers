@@ -215,7 +215,7 @@ var people = {
     year: "2018",
     room: "340A",
     email: "rgulland@mit.edu",
-    photo: "rgulland.jpg",
+    photo: "ryan-john.jpg",
   },
 
   "kianna" : {
